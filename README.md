@@ -83,4 +83,4 @@ It supports following commands.
 
 In case of any error returned from DiffBot object will contain `error` and `errorCode` fields. Otherwise it will contain fields returned from API. See the DiffBot documentation for complete details of fields returned.
 
--Initial commit by Muhammad Jawaid Shamshad(jawaid@ibexoft.com)-
+-Initial commit by Muhammad Jawaid Shamshad(jawaid@ibexofts.tk)-
